@@ -7,7 +7,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 <groupId>com.huiquan</groupId>
 <artifactId>practice</artifactId>
 <version>1.0-SNAPSHOT</version>
-<name>my sort</name>
+<name>my practice</name>
 <dependencies>
 <dependency>
     <groupId>junit</groupId>
